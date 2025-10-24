@@ -1,1 +1,2 @@
 hello this is my first time learning git
+it's so interesting when you have more experience
